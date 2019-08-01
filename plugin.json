@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Misc",
+  "FriendlyName": "BasicPlugin",
+  "SystemName": "Misc.BasicPlugin",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.20" ],
+  "Author": "NopAdvance team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.BasicPlugin.dll",
+  "Description": "This is a sample basic plugin"
+}
